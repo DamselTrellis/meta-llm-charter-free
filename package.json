@@ -1,0 +1,14 @@
+{
+  "name": "meta-llm-charter-free",
+  "version": "2.8.8",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense"
+}
